@@ -6,6 +6,6 @@
 ![log](https://github.com/xvy45/C_plus-plus/assets/113087685/37622d2f-f369-4cb9-baa0-ffe5fa72cae3)
 
 #### O(n*k)
-![O_n](https://github.com/xvy45/C_plus-plus/assets/113087685/e075d6ce-ed62-4e7e-855b-9bea5a6236f0)
+![n_k](https://github.com/xvy45/C_plus-plus/assets/113087685/1f8a2a25-92e8-4206-a634-c45e39332a8b)
 
 
