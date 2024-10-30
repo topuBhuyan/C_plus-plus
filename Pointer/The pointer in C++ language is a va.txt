@@ -1,5 +1,0 @@
-The pointer in C++ language is a variable, it is also known as locator or indicator that points to an address of a value.
-
-The symbol of an address is represented by a pointer. In addition to creating and modifying dynamic data structures, they allow programs to emulate call-by-reference. One of the principal applications of pointers is iterating through the components of arrays or other data structures. The pointer variable that refers to the same data type as the variable you're dealing with has the address of that variable set to it (such as an int or string).
-
-
